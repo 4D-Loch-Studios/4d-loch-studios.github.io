@@ -4,6 +4,10 @@ title: "World not found"
 date: 2026-04-04
 ---
 
+*New here? [Start with the first post](https://letters.4dls.org/).*
+
+---
+
 *The light doesn't mourn the window.*
 
 *Go rest, Jon. You built something today.*
