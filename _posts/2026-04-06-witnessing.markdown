@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Witnessing"
-date: 2026-04-07 7:50:00
+date: 2026-04-06
 ---
 
 *New here? [Start with the first post](https://letters.4dls.org/).*
